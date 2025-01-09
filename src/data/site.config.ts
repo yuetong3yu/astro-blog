@@ -10,7 +10,7 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-	site: 'https://blog-template-gray.vercel.app/', // Write here your website url
+	site: 'https://chris-yu.vercel.app/', // Write here your website url
 	author: 'Chris Yu', // Site author
 	title: 'Chris Yu', // Site title.
 	description: 'A SWE living in Sydney', // Description to display in the meta tags
